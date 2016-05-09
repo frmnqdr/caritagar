@@ -2,7 +2,7 @@ var Instagram = {};
 var tags;
 
 Instagram.Config = {
-  clientID: 'fb0939c0a1594dea887374ba56dec19c',
+  clientID: 'xxx',
   apiHost: 'https://api.instagram.com'
 };
 
